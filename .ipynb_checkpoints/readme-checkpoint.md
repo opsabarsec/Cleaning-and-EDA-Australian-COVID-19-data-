@@ -1,4 +1,6 @@
 # COVID-19 en Australie
+![tested_cases_map](covidau.png)
+
 Exercice d'évaluation pour le poste Inria / AP-HP
 
 Ce repository presente une analyse faite à partir de la base de données sqlite contenant 2 tables. Une table de patients et une table de tests PCR (test utilisé pour le diagnostic du Covid19).
