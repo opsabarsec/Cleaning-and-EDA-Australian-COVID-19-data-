@@ -1,5 +1,19 @@
-# COVID-19 en Australie
+# COVID-19 Australian data cleaning and exploratory analysis
 ![tested_cases_map](covidau.png)
+
+Data have been cleaned and deduplicated using the python package "fuzzywuzzy"
+https://programtalk.com/python-examples/fuzzywuzzy.process.dedupe/
+
+Code at 
+https://github.com/opsabarsec/inria-aphp-assignment/blob/master/Australia_COVID-19_notebook_1.ipynb
+
+The final cleaned dataset has then been analyzed and data plotted with Matplotlib. 
+Code at 
+https://github.com/opsabarsec/inria-aphp-assignment/blob/master/Australia_COVID-19_notebook_2.ipynb
+
+Cloropleth maps of Australia are not shown by the GitHub website
+
+Below full explanation (in French)
 
 Exercice d'évaluation pour le poste Inria / AP-HP
 
