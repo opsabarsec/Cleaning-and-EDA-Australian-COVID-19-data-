@@ -1,9 +1,10 @@
 # COVID-19 Australian data cleaning and exploratory analysis
 
+![aucovid](covid.png)
 ## 1. Background
 2020 will be remembered as the year pandemic struck. Healthcare is under pressure and everyone needs a picture of the situation as clear as possible.
 Still, raw data are partial and most of all contain duplicates, typos and having those cleaned is the first step to understand how the situation is evolving.
-The project goal is to clean the raw data automatically, then present a map of teh situation in Australia.
+The project goal is to clean the raw data automatically, then present graphically situation in Australia.
 
 ## 2. The data
 Those contain personal data and PCR test results for the Australian population during the first pandemic wave. Two tables in sqlite format were supplied, one with patients personal information, and the other with the results of COVID-19 testing. These have to be transformed to Pandas Dataframes in Python and joined later. 
