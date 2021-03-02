@@ -15,10 +15,10 @@ Data have been cleaned and deduplicated using the python package ["fuzzywuzzy"](
 This package uses as criterium the Levenshtein distance:
 % duplicates =  31.25
 
-The code for cleaning is at the [following](https://github.com/opsabarsec/inria-aphp-assignment/blob/master/Australia_COVID-19_notebook_1.ipynb)
+The code for cleaning is at the [following Jupyter notebook](https://github.com/opsabarsec/inria-aphp-assignment/blob/master/Australia_COVID-19_notebook_1.ipynb)
 
 The final cleaned dataset has then been analyzed and data plotted with Matplotlib. 
-[EDA code](https://github.com/opsabarsec/inria-aphp-assignment/blob/master/Australia_COVID-19_notebook_2.ipynb)
+[EDA code Jupyter notebook](https://github.com/opsabarsec/inria-aphp-assignment/blob/master/Australia_COVID-19_notebook_2.ipynb)
 
 Data are plotted showing COVID incidence as a function of age or location in Australia.
 Cloropleth maps are not shown in Jupyter notebooks by the GitHub website, the example below has been uploaded as image file
